@@ -1,7 +1,7 @@
 #### Hi there :bell:
 
 I am Pragati Pawar. 
-* Working at Goldman Sachs
+* Working at JPMorgan & Chase Co.
 * 3+ years of Industry Experience in Software Engg
 * Pursued M.Tech in *Machine Learning and Intelligent Systems* from IIIT Allahabad
 * Experienced as *Teaching Assistant* in IIIT Allahabad
